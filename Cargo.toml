@@ -1,0 +1,7 @@
+[package]
+name = "bosons"
+version = "0.1.0"
+edition = "2024"
+authors = ["iiYese iiyese@outlook.com"]
+description = "A utility library for lerp math"
+license = "MIT OR Apache-2.0"
